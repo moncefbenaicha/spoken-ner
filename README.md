@@ -5,7 +5,9 @@
   <p>
     Repo for the paper experiments source code and data
     <br />
-    <a href="">Paper</a>
+    <a href="https://arxiv.org/abs/2307.01310">Paper</a>
+    ·
+    <a href="https://doi.org/10.5281/zenodo.8104278">Data</a>
     ·
     <a href="mailto:moncef.benaicha@rwth-aachen.de">Contact</a>
   </p>
