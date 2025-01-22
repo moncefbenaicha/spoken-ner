@@ -5,11 +5,11 @@
   <p>
     Repo for the paper experiments source code and data
     <br />
-    <a href="https://arxiv.org/abs/2307.01310">Paper</a>
+    <a href="https://aclanthology.org/2024.konvens-main.11/">Paper</a>
     ·
     <a href="https://doi.org/10.5281/zenodo.8104278">Data</a>
     ·
-    <a href="mailto:moncef.benaicha@rwth-aachen.de">Contact</a>
+    <a href="mailto:contact@moncefbenaicha.com">Contact</a>
   </p>
     <br />
     <br />
@@ -153,7 +153,7 @@ python run.py \
 
 
 # Contact
-In case you have any questions or inquiries, feel free to send an email to: <a href="mailto:moncef.benaicha@rwth-aachen.de">Moncef</a> or <a href="mailto:tugtekin.turan@iais.fraunhofer.de">Tuğtekin</a>
+In case you have any questions or inquiries, feel free to send an email to: <a href="mailto:contact@moncefbenaicha.com">Moncef</a> or <a href="mailto:tugtekin.turan@iais.fraunhofer.de">Tuğtekin</a>
 
 # Acknowledgments
 This work was done during my work at Fraunhofer IAIS and it's supported by the European Union’s Horizon 2020
@@ -162,7 +162,25 @@ SELMA (https://selma-project.eu).
 
 # Paper Citation
 <pre>
-
+@inproceedings{benaicha-etal-2024-leveraging,
+    title = "Leveraging Cross-Lingual Transfer Learning in Spoken Named Entity Recognition Systems",
+    author = "Benaicha, Moncef  and
+      Thulke, David  and
+      Turan, Mehmet Ali Tu{\u{g}}tekin",
+    editor = "Luz de Araujo, Pedro Henrique  and
+      Baumann, Andreas  and
+      Gromann, Dagmar  and
+      Krenn, Brigitte  and
+      Roth, Benjamin  and
+      Wiegand, Michael",
+    booktitle = "Proceedings of the 20th Conference on Natural Language Processing (KONVENS 2024)",
+    month = sep,
+    year = "2024",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.konvens-main.11/",
+    pages = "98--105"
+}
 </pre>
 
 # License
